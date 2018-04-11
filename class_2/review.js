@@ -25,9 +25,35 @@ document.write("happy Wednesday!!!!")
 
 
 
+
+
+
+
+
+
+
+
+
+
 // 3. Set a variable and display it to the page
-// var eleven = 11
-// document.write("eleven")
+var eleven = 11
+document.write("eleven")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
