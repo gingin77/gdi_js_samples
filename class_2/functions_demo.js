@@ -1,14 +1,3 @@
-var first = "Ginnie"
-
-var last = "Hench"
-
-var fullname = first + " " + last
-fullName
-
-// Another option, template literals
-`${first} ${last}`
-
-
 function addOne(inputNumber){
 	    var newNumber = inputNumber + 1;
 	    console.log('You now have ' + newNumber);
